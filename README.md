@@ -9,6 +9,9 @@ db模块为数据库打交道模块；model模块存放bean对象的文件；uti
 ## Main方法
 Main方法尽量简洁，把程序的逻辑写出来即可
 ![Image test](https://raw.githubusercontent.com/shaoyucao/LaGou/master/img_folder/Main%E6%96%B9%E6%B3%95%E4%BB%A3%E7%A0%81.png)
+## 数据获取与解析
+![Image test](https://raw.githubusercontent.com/shaoyucao/LaGou/master/img_folder/URLFecter.png)
+![Image test](https://raw.githubusercontent.com/shaoyucao/LaGou/master/img_folder/LagouParse.png)
 ## 运行效果图
 ![Image test](https://raw.githubusercontent.com/shaoyucao/LaGou/master/img_folder/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9B%BE.png)
 ## 关于数据库
